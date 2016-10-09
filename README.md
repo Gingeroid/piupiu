@@ -4,7 +4,7 @@ How to change your life with one simple piece of stick.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running in your local environment for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running in your local environment for development purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisities
 
