@@ -35,8 +35,7 @@ Deployment of the Pencil 1.0.0 on a live system is very easy. Put the Pencil and
 
 ## Authors
 
-Conrad Gessner
-Nicholas-Jacques Conte
+Conrad Gessner and Nicholas-Jacques Conte
 
 ## License
 
