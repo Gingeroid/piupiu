@@ -39,4 +39,4 @@ Conrad Gessner and Nicholas-Jacques Conte
 
 ## License
 
-This project is licensed by Sweedish bourgeoisie.
+This project is licensed by English bourgeoisie.
